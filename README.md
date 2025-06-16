@@ -82,7 +82,7 @@ pip install pycryptodome cryptography
    cd Secure-Disaster-Coordination-System
    ```
 2. **Set Up Virtual Environment**:
-   - Create and activate a virtual environment:
+   - Activate the virtual environment:
      ```bash
      source venv/bin/activate
      ```
