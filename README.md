@@ -78,8 +78,8 @@ pip install pycryptodome cryptography
 ## Execution Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/kap6174/Secure-Disaster-Coordination-System
+   cd Secure-Disaster-Coordination-System
    ```
 2. **Set Up Virtual Environment**:
    - Create and activate a virtual environment:
